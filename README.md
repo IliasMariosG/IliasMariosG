@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://user-images.githubusercontent.com/57366310/92895303-0ea64880-f424-11ea-8a54-2fef5e6561c3.png" width=100% height=100% />
+
 <!--
 **IliasMariosG/IliasMariosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
