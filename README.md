@@ -2,6 +2,12 @@
 
 <img src="https://user-images.githubusercontent.com/57366310/92895303-0ea64880-f424-11ea-8a54-2fef5e6561c3.png" width=100% height=100% />
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=iliasmariosg&count_private=true&show_icons=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iliasmariosg.iliasmariosg)
+
 <!--
 **IliasMariosG/IliasMariosG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
