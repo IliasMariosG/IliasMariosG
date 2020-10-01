@@ -24,9 +24,7 @@
 -->
 
 <!-- Top languages stats without <a> tags -->
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact)
--->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iliasmariosg.iliasmariosg)
 
