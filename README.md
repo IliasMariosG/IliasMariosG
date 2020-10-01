@@ -1,17 +1,27 @@
 ### Hi there 👋
 
+<!-- Image (Inspired by Spectrum V by. Ellsworth Kelly)-->
 <img src="https://user-images.githubusercontent.com/57366310/92895303-0ea64880-f424-11ea-8a54-2fef5e6561c3.png" width=85% height=85% />
 
-<a href="https://github.com/iliasmariosg/iliasmariosg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iliasmariosg&count_private=true&show_icons=true&include_all_commits=true" />
-</a>
+<!-- GutHub stats badge with <a> tags -->
+<!--  <a href="https://github.com/iliasmariosg/iliasmariosg">-->
+<!--    --<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliasmariosg&count_private=true&show_icons=true&include_all_commits=true" />-->
+  <!--</a>-->
 
+<!-- Top languages stats with <a> tags -->
 <a href="https://github.com/iliasmariosg/iliasmariosg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact" />
 </a>
 
+<!-- Contribution stats badge by LordDaseme -->
+<!--
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=iliasmariosg)](https://github.com/LordDashMe/github-contribution-stats/)
+-->
+
+<!-- GutHub stats badge without <a> tags -->
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=iliasmariosg&count_private=true&show_icons=true&include_all_commits=true) -->
 
+<!-- Top languages stats without <a> tags -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact) -->
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=iliasmariosg.iliasmariosg)
