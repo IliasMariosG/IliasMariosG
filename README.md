@@ -6,14 +6,14 @@
 <!-- GutHub stats badge with <a> tags -->
 
 <a href="https://github.com/iliasmariosg/iliasmariosg">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliasmariosg&count_private=true&show_icons=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iliasmariosg&count_private=true&show_icons=true&include_all_commits=true" height="175px />
 </a>
  
                            
 <!-- Top languages stats badge with <a> a tags -->
 
 <a href="https://github.com/iliasmariosg/iliasmariosg">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact" height="195px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact" height="175px"/>
 </a>
                                                                                                                                        
 <p>
