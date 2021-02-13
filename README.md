@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on TDD in Ruby, JavaScript fundamentals and coding challenges in Python. <br> Also, keeping my collaboration skills sharp while learning some mobile app development in Expo React Native</br>
   
-- 📫 How to reach me: [www.iliasgrigoropoulos.tech](www.iliasgrigoropoulos.tech)
+- 📫 How to reach me: [www.iliasgrigoropoulos.tech](https://www.iliasgrigoropoulos.tech)
 </p>
 <!-- Contribution stats badge by LordDaseme -->
 <!--
