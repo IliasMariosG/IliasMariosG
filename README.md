@@ -18,8 +18,8 @@
                                                                                                                                        
 <p>
 
-- 🔭 I’m currently working on TDD in Ruby, JavaScript fundamentals and coding challenges in Python. <br> Also, keeping my collaboration skills sharp while learning some mobile app development in Expo React Native</br>
-  
+- 🔭 I’m currently working on Ruby, JavaScript and coding challenges in Python. <br> Also, I'm developing the [Acknowledge](https://github.com/Acknowledge-App/Acknowledge) mobile app to keep my collaboration skills sharp and learn mobile app development in Expo React Native</br>
+- 🌱 I’m currently learning Express by doing the [poems](https://github.com/iliasmariosg/poems) project
 - 📫 How to reach me: [www.iliasgrigoropoulos.tech](https://www.iliasgrigoropoulos.tech)
 </p>
 <!-- Contribution stats badge by LordDaseme -->
