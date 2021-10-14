@@ -13,7 +13,7 @@
 <!-- Top languages stats badge with <a> a tags -->
 
 <a href="https://github.com/iliasmariosg/iliasmariosg">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact" height="175px"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iliasmariosg&hide=TeX&layout=compact&langs_count=7" height="175px"/>
 </a>
                                                                                                                                        
 <p>
